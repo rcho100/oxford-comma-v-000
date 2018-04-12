@@ -10,4 +10,5 @@ def oxford_comma(array)
     list << ", and "
     list + last_one
   end
+  #space
 end
